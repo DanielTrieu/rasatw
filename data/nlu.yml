@@ -16,35 +16,54 @@ nlu:
 
 - intent: goodbye
   examples: |
-    - cu
-    - good by
-    - cee you later
-    - good night
-    - bye
-    - goodbye
-    - have a nice day
-    - see you around
-    - bye bye
-    - see you later
+    - 再見
+    - 掰掰
+    - 拜拜
+    - 下次見
+    - 先這樣
+    - 期待與您再相會
+    - 下次再見
+    - 希望下次能很快為您服務
 
 - intent: affirm
   examples: |
-    - yes
-    - y
-    - indeed
-    - of course
-    - that sounds good
-    - correct
+    - 是的
+    - 的確
+    - 當然
+    - 正確的
+    - 沒錯
+    - 正確
+    - 對的
+    - 對
+    - 正確無誤
+    - 好
+    - 好啊
+    - 可以
+    - 謝謝
+    - 是
 
 - intent: deny
   examples: |
-    - no
-    - n
-    - never
-    - I don't think so
-    - don't like that
-    - no way
-    - not really
+    - 不
+    - 絕不
+    - 我不這麼認為
+    - 不喜歡那樣
+    - 沒門
+    - 並不真地
+    - 沒辦法
+    - 不喜歡
+    - 不是
+    - 不用了
+    - 我不需要
+    - 不要
+    - 先不用
+    - 沒有這個需要
+    - 沒關係，先不用
+    - 不需要
+    - 不行
+    - 沒關係，不用了
+    - 目前不需要
+    - 並不是
 
 - intent: mood_great
   examples: |
