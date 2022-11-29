@@ -3,19 +3,16 @@ version: "3.0"
 nlu:
 - intent: greet
   examples: |
-    - hey
+    - 你好
+    - 喂
+    - 早安
+    - 你好嗎
+    - 哈囉
+    - 有什麼可以幫忙的嗎
+    - 嗨
+    - 您好
+    - 歡迎
     - hello
-    - hi
-    - hello there
-    - good morning
-    - good evening
-    - moin
-    - hey there
-    - let's go
-    - hey dude
-    - goodmorning
-    - goodevening
-    - good afternoon
 
 - intent: goodbye
   examples: |
